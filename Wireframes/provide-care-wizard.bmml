@@ -1,0 +1,165 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1283" measuredH="770" mockupW="1257" mockupH="770">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="46" y="0" w="-1" h="-1" measuredW="230" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Provide%20care</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="26" y="63" w="666" h="348" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Step%201%3A%20Care%20jobs</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="836" y="75" w="447" h="474" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20a%20one-page%20multi-step%20wizard%2C%20ie%3A%20the%20data%20is%20collected%20without%20refreshing%20the%20screen.%0AA%20%22slide%22%20effect%20is%20used%20to%20show%20the%20next%20step.%20%28not%20sure%20about%20the%20technical%20side%20of%20this%20page%3F%3F%3F%3F%29%0A%20%0AWizard%20page%201%0A%20%0A.%20Ask%20what%20type%20of%20care%20they%20are%20providing%20%28use%20icons%20+%20words%29%0A%20%0AWizard%20page%202%0A%20%0A.%20Determine%20whether%20this%20is%20an%20individual%20or%20a%20small%20business%20wanting%20to%20advertise%20roles%0A%20%0AGo%20to%3A%0A%20%0AProvide-care-small-business-wizard%20-%20SMALL%20BUSINESS%0A%20%0AOR%0A%20%0AProvide-care-individual-wizard%20-%20INDIVIDUAL%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="153" y="75" w="481" h="-1" measuredW="289" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>What%20king%20of%20care%20service%20do%20you%20offer%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="130" y="115" w="108" h="31" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="130" y="146" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nanny/Babysitting</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="297" y="117" w="108" h="31" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="297" y="148" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ChildCare%20Centre</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="455" y="117" w="114" h="31" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="455" y="148" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>In-Home%20Day%20Care</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="415" y="346" w="130" h="42" measuredW="96" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>6989903</color>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>Next%20step</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Image" x="130" y="174" w="108" h="31" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="297" y="175" w="108" h="31" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="455" y="175" w="114" h="31" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Paragraph" x="133" y="208" w="125" h="16" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Special%20Needs</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Paragraph" x="297" y="210" w="118" h="16" measuredW="275" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Senior%20Care%20Provider</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Paragraph" x="455" y="210" w="118" h="16" measuredW="275" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Errands%20-%20House%20Sit</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="130" y="225" w="108" h="31" measuredW="77" measuredH="79" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="297" y="226" w="108" h="31" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="455" y="227" w="114" h="31" measuredW="77" measuredH="79" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="130" y="257" w="125" h="16" measuredW="275" measuredH="80" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pet%20Care</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Paragraph" x="297" y="257" w="125" h="16" measuredW="275" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nurse</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="455" y="257" w="125" h="16" measuredW="275" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Housekeeping</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Image" x="130" y="273" w="108" h="31" measuredW="77" measuredH="79" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Paragraph" x="130" y="305" w="125" h="33" measuredW="275" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tutor%20%26%20Private%20%0ALessons</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Button" x="130" y="346" w="130" h="42" measuredW="105" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10470904</color>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>Start%20Over</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="__group__" x="98" y="501" w="491" h="156" measuredW="491" measuredH="156" zOrder="27" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="230" h="156" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="130"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="15" w="230" h="-1" measuredW="203" measuredH="27" zOrder="1" locked="false" isInGroup="130">
+          <controlProperties>
+            <size>24</size>
+            <text>Individual%20Provider</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="255" y="0" w="236" h="156" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="130"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="255" y="15" w="198" h="-1" measuredW="165" measuredH="27" zOrder="3" locked="false" isInGroup="130">
+          <controlProperties>
+            <size>24</size>
+            <text>Small%20Business</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Title" x="60" y="455" w="-1" h="-1" measuredW="533" measuredH="31" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Are%20you%20an%20individual%20or%20a%20small%20business%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Image" x="189" y="564" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Image" x="415" y="564" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Button" x="406" y="690" w="130" h="42" measuredW="96" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>6989903</color>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>Next%20step</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Button" x="153" y="684" w="130" h="42" measuredW="105" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10470904</color>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>Start%20Over</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::FieldSet" x="26" y="422" w="666" h="348" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Step%202%3A%20Private%20/%20Commercial</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
